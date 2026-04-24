@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Hugging Face / model cache
+.cache/
+huggingface/
+
+# Results / temporary outputs
+results/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
